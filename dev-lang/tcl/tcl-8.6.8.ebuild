@@ -26,7 +26,7 @@ PATCHES=(
 	"${FILESDIR}"/${PN}-8.5.13-multilib.patch
 
 	# Bug 125971
-	"${FILESDIR}"/${PN}-8.5.14-conf.patch
+	"${FILESDIR}"/${PN}-8.6.8-conf.patch
 )
 
 src_prepare() {
